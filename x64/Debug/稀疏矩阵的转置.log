@@ -1,0 +1,8 @@
+﻿  main.c
+F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\main.c(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\main.c(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\main.c(155,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\main.c(188,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\main.c(25): warning C4716: “init”: 必须返回一个值
+F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\main.c(43): warning C4716: “create”: 必须返回一个值
+  稀疏矩阵的转置.vcxproj -> F:\微软云盘\OneDrive\桌面\Document\数据结构实验报告\稀疏矩阵的转置\x64\Debug\稀疏矩阵的转置.exe
